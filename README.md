@@ -1,17 +1,19 @@
-# Kalkulator-Sederahana
+# Kalkulator-Sederhana
 
-A simple calculator application built with Java.
-
-## Features
-- Basic arithmetic operations (addition, subtraction, multiplication, division)
-- Simple and easy to use interface
-
-## Technology
-- Java
-
-## Getting Started
-1. Clone this repository
-2. Compile and run the application using your Java IDE
+> This is Aplication desktop Calculator made with java
 
 ---
-*Created by Usa-bunny*
+
+## 🚀 Getting Started
+
+### Installation
+1. Clone the repository:
+~~~bash
+git clone https://github.com/Usa-bunny/Kalkulator-Sederhana.git
+cd Kalkulator-Sederhana
+~~~
+2. Run File `Kalkulator.java` use F6 or run immediately with apache neatbean
+
+---
+
+<p align="center">🎮 <strong>Created by <a href="https://github.com/Usa-bunny">Usa-bunny</a></strong></p>
